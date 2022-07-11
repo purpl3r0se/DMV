@@ -1,5 +1,4 @@
-
-# 💻 DMV
+<img src="images/banner-head.png"></img>
 
 D.M.V short for Discord Malware Varients is a repository i decided to make to bring more light to the types of tools used on discord for stealing other peoples information and data. In this repository i will be showing all varients of Discord based and spread viruses. 
 
@@ -102,3 +101,5 @@ You can contact me through my discord server to sumbit them.
 - mmmly
     - [Website](https://morimolymoly.com/)
     - [Email](mailto:morimolymoly@gmail.com)
+
+<img src="images/banner-foot.png"></img>
