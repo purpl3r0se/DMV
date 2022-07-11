@@ -1,6 +1,7 @@
 {
     "0": {
         "name": "bby stealer",
+        "owner": "brunxkd",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -17,6 +18,7 @@
     },
     "1": {
         "name": "pirate stealer",
+        "owner": "stanley",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -24,6 +26,7 @@
     },
     "2": {
         "name": "redfinger stealer",
+        "owner": "illuminati",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -31,13 +34,15 @@
     },
     "3": {
         "name": "mitsu stealer",
+        "owner": "staw",
         "open source": false,
         "paid": true,
-        "language": "js",
+        "language": "py",
         "resellable": false
     },
     "4": {
         "name": "rustler stealer",
+        "owner": "",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -45,6 +50,7 @@
     },
     "5": {
         "name": "LNY stealer",
+        "owner": "umutxsad",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -52,6 +58,7 @@
     },
     "6": {
         "name": "hazard token grabber v2",
+        "owner": "Rdimo",
         "open source": true,
         "paid": false,
         "language": "py",
@@ -59,6 +66,7 @@
     },
     "7": {
         "name": "oracle stealer",
+        "owner": "ilylunar",
         "open source": false,
         "paid": true,
         "language": "py",
@@ -66,6 +74,7 @@
     },
     "8": {
         "name": "empyrean",
+        "owner": "addidix",
         "open source": true,
         "paid": false,
         "language": "py",
@@ -73,6 +82,7 @@
     },
     "9": {
         "name": "pegasus",
+        "owner": "addidix",
         "open source": true,
         "paid": false,
         "language": "py",
@@ -80,6 +90,7 @@
     },
     "10": {
         "name": "mercurial grabber",
+        "owner": "nightfall",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -87,6 +98,7 @@
     },
     "11": {
         "name": "threat stealer",
+        "owner": "synthetic",
         "open source": false,
         "paid": true,
         "language": "py",
