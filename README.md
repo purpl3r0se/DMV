@@ -99,4 +99,6 @@ You can contact me through my discord server to sumbit them.
 - Credit
     - [Email](mailto:credit@fbi.ac)
     - [Discord](https://paste.addi00000.repl.co/?p=guap%230420)
-
+- mmmly
+    - [Website](https://morimolymoly.com/)
+    - [Email](mailto:morimolymoly@gmail.com)
