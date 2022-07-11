@@ -15,7 +15,7 @@
   LNY stealer
 
 
-PYTHON BASED : 
+## PYTHON BASED : 
 
 
   Hazard token grabber V2 (Open Source)
@@ -27,6 +27,6 @@ PYTHON BASED :
   Pegasus (Open Source)
   
 
-C# BASED : 
+## C# BASED : 
 
   Mercurial Grabber
