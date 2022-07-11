@@ -72,5 +72,11 @@
         "paid": false,
         "language": "cs",
         "resellable": false
+    },
+    "threat stealer": {
+        "open source": false,
+        "paid": true,
+        "language": "py",
+        "resellable": false
     }
 }
