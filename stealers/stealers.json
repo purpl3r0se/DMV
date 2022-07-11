@@ -103,5 +103,101 @@
         "paid": true,
         "language": "py",
         "resellable": false
+    },
+    "12": {
+        "name": "stealerium",
+        "owner": "kgnfth",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "13": {
+        "name": "hs grabber",
+        "owner": "stanley",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "14": {
+        "name": "44 caliber",
+        "owner": "razexgod",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "15": {
+        "name": "NekoStealer",
+        "owner": "TheC0mpany",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "16": {
+        "name": "Discord-AIO",
+        "owner": "Nyxonn",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "17":{
+        "name": "growtopia stealer",
+        "owner": "TheC0mpany",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "18":{
+        "name": "INZStealer",
+        "owner": "InstinctEx",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "19":{
+        "name": "CyberStealer",
+        "owner": "DedSec77",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "20":{
+        "name": "GodStealer",
+        "owner": "1Emin",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "21":{
+        "name": "DeadLight",
+        "owner": "ZeroMemoryEx",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "22":{
+        "name": "DFucker-Grabber",
+        "owner": "TioICO",
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    },
+    "23":{
+        "name": "ChromiumStealer",
+        "owner": "BasedBased",
+        "open source": true,
+        "paid": false,
+        "language": "py",
+        "resellable": false
     }
 }
