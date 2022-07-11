@@ -45,7 +45,9 @@ These "Rare" badges are
 
 These all sell for big $ on the market hence are targeted more.
 
-Also keep in mind you can get scammed not only by running a program but by scanning a QR-code
+Also keep in mind you can get scammed not only by running a program but by scanning a QR-code like "FREE NITRO"
+
+![Screenshot](images/scam.png)
 
 ## 🛑 Signs of a scam
 
