@@ -52,6 +52,10 @@ In this scam someone sends you a message along the lines of "You have been expos
 
 [Discord Name and Shame Scam Explained]("https://news.trendmicro.com/2022/07/08/discord-name-and-shame-scam-server-shaming/)
 
+### QR Code - Free nitro scam
+In a similar method to the former scam, the scammer sends you a QR code. Upon scanning the QR code, the scammer will receive your discord account information allowin them to log in. This works different in the sense that it attempts to look like a discord gift that can be redeemed for nitro when scanned.
+
+![Screenshot](images/scam.jpg)
 ## <a id="report"></a>✅ Reporting a scam
 
 To report this scam go to [Submit a request](https://support.discord.com/hc/en-us/requests/new)
