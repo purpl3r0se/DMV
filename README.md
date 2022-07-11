@@ -9,6 +9,11 @@ D.M.V short for Discord Malware Varients is a repository i decided to make to br
 - [@addidix](https://github.com/addi00000)
 - [@Syntheticc](https://github.com/Syntheticc)
 
+## 🧩 Contributing
+- Fork, edit, and make a pull request.
+- Make sure to make a useful commit message and description on the pull request.
+- Use existing data as a guide for your addition and follow the patterns if applicable.
+
 ## 💼 Features of most of these malwares 
     QRCode logger
     Discord token
