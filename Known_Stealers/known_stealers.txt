@@ -6,6 +6,7 @@ Pirate stealer (PS stealer)
 Redfinger stealer
 Mitsu stealer
 rustlerstealer
+LNY stealer
 
 
 PYTHON : 
