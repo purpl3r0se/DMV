@@ -6,7 +6,8 @@
         "language": "js",
         "resellable": true,
         "resellers": {
-            "1337 stealer": {
+            "0": {
+                "name": "1337 stealer",
                 "open source": false,
                 "paid": true,
                 "language": "js",
