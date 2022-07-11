@@ -6,7 +6,6 @@ D.M.V short for Discord Malware Varients is a repository i decided to make to br
 ## <a id="index"></a>📚 Index
 
 - [📚 Index](#index)
-- [🔨 Contributors](#contributors)
 - [🧩 Contributing](#contributing)
 - [🧾 Known Stealers](#stealers)
 - [💼 Features of most of these malwares ](#features)
@@ -14,13 +13,8 @@ D.M.V short for Discord Malware Varients is a repository i decided to make to br
 - [🛑 Signs of a scam](#signs)
 - [✅ How to report a scam](#report)
 - [👓 How to remove the malware from your pc](#removal)
-- [🎫 How to submit Malware](#submition)
-
-## <a id="contributors"></a>🔨 Contributors
-
-- [@morimolymoly](https://github.com/morimolymoly) Main Contributer
-- [@addidix](https://github.com/addi00000)
-- [@Syntheticc](https://github.com/Syntheticc)
+- [🎫 How to submit Malware](#submition) 
+- [🔨 Contributors](#contributors)
 
 ## <a id="contributing"></a>🧩 Contributing
 - Fork, edit, and make a pull request.
@@ -95,3 +89,14 @@ Also change your password for your discord account(s)
 You can contact me through my discord server to sumbit them.
 
 [![Discord](https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/coo)
+
+## <a id="contributors"></a>🔨 Contributors
+
+- Addi
+    - [Website](https://www.addidix.xyz)
+    - [Email](mailto:addidix@proton.me)
+    - [Discord](https://paste.addi00000.repl.co/?p=notaddidix%231400)
+- Credit
+    - [Email](mailto:credit@fbi.ac)
+    - [Discord](https://paste.addi00000.repl.co/?p=guap%230420)
+
