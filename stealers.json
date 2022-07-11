@@ -1,0 +1,76 @@
+{
+    "bby stealer": {
+        "open source": false,
+        "paid": true,
+        "language": "js",
+        "resellable": true,
+        "resellers": {
+            "1337 stealer": {
+                "open source": false,
+                "paid": true,
+                "language": "js",
+                "resellable": false
+            }
+        }
+    },
+    "pirate stealer": {
+        "open source": false,
+        "paid": true,
+        "language": "js",
+        "resellable": false
+    },
+    "redfinger stealer": {
+        "open source": false,
+        "paid": true,
+        "language": "js",
+        "resellable": false
+    },
+    "mitsu stealer": {
+        "open source": false,
+        "paid": true,
+        "language": "js",
+        "resellable": false
+    },
+    "rustler stealer": {
+        "open source": false,
+        "paid": true,
+        "language": "js",
+        "resellable": false
+    },
+    "LNY stealer": {
+        "open source": false,
+        "paid": true,
+        "language": "js",
+        "resellable": false
+    },
+    "hazard token grabber v2": {
+        "open source": true,
+        "paid": false,
+        "language": "py",
+        "resellable": false
+    },
+    "oracle stealer": {
+        "open source": false,
+        "paid": true,
+        "language": "py",
+        "resellable": false
+    },
+    "empyrean": {
+        "open source": true,
+        "paid": false,
+        "language": "py",
+        "resellable": false
+    },
+    "pegasus": {
+        "open source": true,
+        "paid": false,
+        "language": "py",
+        "resellable": false
+    },
+    "mercurial grabber": {
+        "open source": true,
+        "paid": false,
+        "language": "cs",
+        "resellable": false
+    }
+}
