@@ -3,18 +3,32 @@
 
 D.M.V short for Discord Malware Varients is a repository i decided to make to bring more light to the types of tools used on discord for stealing other peoples information and data. In this repository i will be showing all varients of Discord based and spread viruses. 
 
-## 🔨 Contributors
+## <a id="index"></a>📚 Index
+
+- [📚 Index](#index)
+- [🔨 Contributors](#contributors)
+- [🧩 Contributing](#contributing)
+- [🧾 Known Stealers](#stealers)
+- [💼 Features of most of these malwares ](#features)
+- [💬 Information](#info)
+- [🛑 Signs of a scam](#signs)
+- [✅ How to report a scam](#report)
+- [👓 How to remove the malware from your pc](#removal)
+- [🎫 How to submit Malware](#submition)
+
+## <a id="contributors"></a>🔨 Contributors
 
 - [@morimolymoly](https://github.com/morimolymoly) Main Contributer
 - [@addidix](https://github.com/addi00000)
 - [@Syntheticc](https://github.com/Syntheticc)
 
-## 🧩 Contributing
+## <a id="contributing"></a>🧩 Contributing
 - Fork, edit, and make a pull request.
 - Make sure to make a useful commit message and description on the pull request.
 - Use existing data as a guide for your addition and follow the patterns if applicable.
 
-## 💼 Features of most of these malwares 
+## <a id="stealers"></a>[🧾 Known Stealers](STEALERS.md)
+## <a id="features"></a>💼 Features of most of these malwares 
     QRCode logger
     Discord token
     Password (even when it changes)
@@ -31,7 +45,7 @@ D.M.V short for Discord Malware Varients is a repository i decided to make to br
     Metamask steale
     Exodus stealer
     0/64 Detections
-## 💬 Information
+## <a id="info"></a>💬 Information
 You may ask why do they steal cookies? Well they use cookies to login to your Email, Bank, Roblox ect. This is how they fully take over your account(s). You may also ask why do they need to know what type of badges my discord account has? Well this is because accounts with "Rare" badges sell for a high price on the market. 
 
 These "Rare" badges are   
@@ -49,7 +63,7 @@ Also keep in mind you can get scammed not only by running a program but by scann
 
 ![Screenshot](images/scam.jpg)
 
-## 🛑 Signs of a scam
+## <a id="signs"></a>🛑 Signs of a scam
 
 * Someone out of the blue messages and asks you to test their game for a school project, or to be a beta tester
 
@@ -63,20 +77,20 @@ If you have seen these scenarios it was 100% a scam.
 
 Keep in mind you could recive this message from anyone your friend, IRL friend, ect. This is because there account has been compromised and it automatically sends messages to people on the friends list who have the persons **trust.** 
 
-## ✅ How to report a scam
+## <a id="report"></a>✅ How to report a scam
 
 To report this scam go to [Submit a request](https://support.discord.com/hc/en-us/requests/new)
 and fill out the forum
 
 
-## 👓 How to remove the malware from your pc
+## <a id="removal"></a>👓 How to remove the malware from your pc
 
 If you have fallen for this you need to firstly reinstall the discord client, Then do `windows key + R` and type `%appdata%` into the box and press ok, After doing do locate the `discord` folder and completly delete it after doing so you can reinstall discord and change. 
 Also change your password for your discord account(s)
 
 (You need to re-install discord because the malware mostly used injects into the discord client)
 
-## 🎫 How to submit Malware
+## <a id="submition"></a>🎫 How to submit Malware
 
 You can contact me through my discord server to sumbit them.
 
