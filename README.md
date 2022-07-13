@@ -65,6 +65,8 @@ and fill out the forum
 
 ## <a id="removal"></a>👓 Removal of malicious programs
 
+### Removal of Discord injected malwares
+
 If the scammer can still successfully access your discord account after you have removed the malware and changed your discord password, your discord process may be injected.
 
 This malware can be removed by simply deleting discord and reinstalling. In order to do this you must:
@@ -73,6 +75,37 @@ This malware can be removed by simply deleting discord and reinstalling. In orde
 3. Proceed to look through this folder for a folder named `Discord`
 4. Delete the `Discord` folder and ensure it is completely gone from this directory
 5. Reinstall discord from the official discord website and change your password again
+
+### Removal of sophisticated malwares
+
+#### [Tron-Script](https://github.com/bmrf/tron/)
+`Tron` is a powerful tool that is basically a lot of batch files that automates the process of disinfecting your windows machine
+
+<details><summary>Here's a list of resources related to Tron</summary>
+<p>
+   
+- [Download it here](https://www.reddit.com/r/TronScript/wiki/downloads)
+- [The official Reddit page](https://old.reddit.com/r/TronScript/wiki/index)
+- [Github for source code](https://github.com/bmrf/tron)
+- Tron-Script seems to be using Reddit as their main page
+
+</p>
+</details>
+
+#### [Process Hacker](https://processhacker.sourceforge.io/)
+`Process Hacker` is like an advanced task manager it will help you find paranormal activties and terminate and suspend them
+
+<details><summary>Here's a list of resources related to Process Hacker </summary>
+<p>
+
+- [Download it here](https://processhacker.sourceforge.io/nightly.php)
+- [The official page](https://processhacker.sourceforge.io/)
+- [Github for source code](https://processhacker.sourceforge.io/github.php)
+- Sadly I could not find a reddit page dedicated to Process Hacker
+
+</p>
+</details>
+
 
 ## <a id="guilds"></a>🤝 Trusted Servers
 - [Scam Recovery Centre](https://discord.gg/T7xmU3hTmG) → Discord scam awareness
