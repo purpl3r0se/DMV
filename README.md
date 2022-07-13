@@ -1,4 +1,4 @@
-<img src="images/banner-head.png"></img>
+<img src="images/banner-head.png" width="100%"></img>
 
 DMV (Discord Malware Variants) is a repository made to bring light to harmful programs used by bad actors in order to steal sensitive information from victims primarily over discord. Many methods of attacks will be displayed throughout this
 document.
@@ -90,4 +90,4 @@ This malware can be removed by simply deleting discord and reinstalling. In orde
 - Fork, edit, and make a pull request.
 - Make sure to make a useful commit message and description on the pull request.
 - Use existing data as a guide for your addition and follow the patterns if applicable.
-<img src="images/banner-foot.png"></img>
+<img src="images/banner-foot.png" width="100%"></img>
