@@ -11,6 +11,7 @@ document.
 - [🛑 Popular scams](#scams)
 - [✅ Reporting a scam](#report)
 - [👓 Removal of malicious programs](#removal)
+- [🤝 Trusted Servers](#guilds)
 - [🔨 Contributors](#contributors)
 - [🧩 Contributing](#contributing)
 
@@ -73,6 +74,9 @@ This malware can be removed by simply deleting discord and reinstalling. In orde
 4. Delete the `Discord` folder and ensure it is completely gone from this directory
 5. Reinstall discord from the official discord website and change your password again
 
+## <a id="guilds"></a>🤝 Trusted Servers
+- [Scam Recovery Centre](https://discord.gg/T7xmU3hTmG) → Discord scam awarness
+- [/coo](https://discord.gg/coo) → New malware sample submission
 ## <a id="contributors"></a>🔨 Contributors
 
 - Addi
