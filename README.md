@@ -100,7 +100,7 @@ This malware can be removed by simply deleting discord and reinstalling. In orde
 
 - [Download it here](https://processhacker.sourceforge.io/nightly.php)
 - [The official page](https://processhacker.sourceforge.io/)
-- [Github for source code](https://processhacker.sourceforge.io/github.php)
+- [Github for source code](https://github.com/winsiderss/systeminformer)
 - Sadly I could not find a reddit page dedicated to Process Hacker
 
 </p>
