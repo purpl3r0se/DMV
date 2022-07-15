@@ -117,7 +117,6 @@ This malware can be removed by simply deleting discord and reinstalling. In orde
    - [Email](mailto:addidix@proton.me)
    - [Discord](https://paste.addi00000.repl.co/?p=notaddidix%231400)
 - Credit
-   - [Email](mailto:credit@fbi.ac)
    - [Discord](https://paste.addi00000.repl.co/?p=guap%230420)
 - mmmly
    - [Website](https://morimolymoly.com/)
