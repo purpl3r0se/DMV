@@ -8,6 +8,7 @@ __LANGS__ = {
     'c' : 'C',
     'cpp' : 'C++',
     'go' : 'Go',
+    'bat': "Batch"
 }
 
 with open('stealers.json', 'r', encoding='utf-8') as f:

@@ -6,6 +6,8 @@
     - 5 occurences
 - C#
     - 12 occurences
+- Batch
+    - 1 occurences
 ### Bby Stealer | Creator: Brunxkd
     Closed source
     Paid
@@ -129,4 +131,9 @@
     Open source
     Free
     Coded with Python 
+    No resale program
+### Baum1810-Fixed-Token-Grabber | Creator: Baum1810
+    Open source
+    Free
+    Coded with Batch 
     No resale program
