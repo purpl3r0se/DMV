@@ -97,14 +97,6 @@
         "resellable": false
     },
     "11": {
-        "name": "threat stealer",
-        "owner": "synthetic",
-        "open source": false,
-        "paid": true,
-        "language": "py",
-        "resellable": false
-    },
-    "12": {
         "name": "stealerium",
         "owner": "kgnfth",
         "open source": true,
@@ -112,7 +104,7 @@
         "language": "cs",
         "resellable": false
     },
-    "13": {
+    "12": {
         "name": "hs grabber",
         "owner": "stanley",
         "open source": true,
@@ -120,7 +112,7 @@
         "language": "cs",
         "resellable": false
     },
-    "14": {
+    "13": {
         "name": "44 caliber",
         "owner": "razexgod",
         "open source": true,
@@ -128,7 +120,7 @@
         "language": "cs",
         "resellable": false
     },
-    "15": {
+    "14": {
         "name": "NekoStealer",
         "owner": "TheC0mpany",
         "open source": true,
@@ -136,7 +128,7 @@
         "language": "cs",
         "resellable": false
     },
-    "16": {
+    "15": {
         "name": "Discord-AIO",
         "owner": "Nyxonn",
         "open source": true,
@@ -144,7 +136,7 @@
         "language": "cs",
         "resellable": false
     },
-    "17":{
+    "16": {
         "name": "growtopia stealer",
         "owner": "TheC0mpany",
         "open source": true,
@@ -152,7 +144,7 @@
         "language": "cs",
         "resellable": false
     },
-    "18":{
+    "17": {
         "name": "INZStealer",
         "owner": "InstinctEx",
         "open source": true,
@@ -160,7 +152,7 @@
         "language": "cs",
         "resellable": false
     },
-    "19":{
+    "18": {
         "name": "CyberStealer",
         "owner": "DedSec77",
         "open source": true,
@@ -168,7 +160,7 @@
         "language": "cs",
         "resellable": false
     },
-    "20":{
+    "19": {
         "name": "GodStealer",
         "owner": "1Emin",
         "open source": true,
@@ -176,7 +168,7 @@
         "language": "cs",
         "resellable": false
     },
-    "21":{
+    "20": {
         "name": "DeadLight",
         "owner": "ZeroMemoryEx",
         "open source": true,
@@ -184,7 +176,7 @@
         "language": "cs",
         "resellable": false
     },
-    "22":{
+    "21": {
         "name": "DFucker-Grabber",
         "owner": "TioICO",
         "open source": true,
@@ -192,7 +184,7 @@
         "language": "cs",
         "resellable": false
     },
-    "23":{
+    "22": {
         "name": "ChromiumStealer",
         "owner": "BasedBased",
         "open source": true,
@@ -200,7 +192,7 @@
         "language": "py",
         "resellable": false
     },
-    "24":{
+    "23": {
         "name": "baum1810-fixed-token-grabber",
         "owner": "baum1810",
         "open source": true,
