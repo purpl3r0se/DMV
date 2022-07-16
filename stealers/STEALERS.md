@@ -1,7 +1,7 @@
 # Stealers
 ## Breakdown
 - Python
-    - 7 occurences
+    - 6 occurences
 - JavaScript
     - 5 occurences
 - C#
@@ -66,11 +66,6 @@
     Open source
     Free
     Coded with C# 
-    No resale program
-### Threat Stealer | Creator: Synthetic
-    Closed source
-    Paid
-    Coded with Python 
     No resale program
 ### Stealerium | Creator: Kgnfth
     Open source
