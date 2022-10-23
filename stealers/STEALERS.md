@@ -149,12 +149,12 @@
 ### Lust Stealer | Creator(s): Unknown 
     Closed source
     Paid
-    Coded in JS?
+    Coded in Rust
     Resale Progam
     Telegram : t.me/lustlogging
 ### Extrack Stealer | Creator(s): Nayia, imchiral, ZsoZsov
     Closed source
     Paid
-    Coded in JS & RUST
+    Coded in JS & Rust
     No resale program
     Telegram : /t.me/extrack_stealer

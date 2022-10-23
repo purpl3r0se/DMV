@@ -1,7 +1,7 @@
 {
     "0": {
         "name": "bby stealer",
-        "owner": "brunxkd",
+        "owner(s)": "brunxkd",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -18,7 +18,7 @@
     },
     "1": {
         "name": "pirate stealer",
-        "owner": "stanley",
+        "owner(s)": "stanley",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -26,7 +26,7 @@
     },
     "2": {
         "name": "redfinger stealer",
-        "owner": "illuminati",
+        "owner(s)": "illuminati",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -34,7 +34,7 @@
     },
     "3": {
         "name": "mitsu stealer",
-        "owner": "staw",
+        "owner(s)": "staw",
         "open source": false,
         "paid": true,
         "language": "py",
@@ -42,7 +42,7 @@
     },
     "4": {
         "name": "rustler stealer",
-        "owner": "",
+        "owner(s)": "",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -50,7 +50,7 @@
     },
     "5": {
         "name": "LNY stealer",
-        "owner": "umutxsad",
+        "owner(s)": "umutxsad",
         "open source": false,
         "paid": true,
         "language": "js",
@@ -58,7 +58,7 @@
     },
     "6": {
         "name": "hazard token grabber v2",
-        "owner": "Rdimo",
+        "owner(s)": "Rdimo",
         "open source": true,
         "paid": false,
         "language": "py",
@@ -66,7 +66,7 @@
     },
     "7": {
         "name": "oracle stealer",
-        "owner": "ilylunar",
+        "owner(s)": "ilylunar",
         "open source": false,
         "paid": true,
         "language": "py",
@@ -74,7 +74,7 @@
     },
     "8": {
         "name": "empyrean",
-        "owner": "addidix",
+        "owner(s)": "addidix",
         "open source": true,
         "paid": false,
         "language": "py",
@@ -82,7 +82,7 @@
     },
     "9": {
         "name": "pegasus",
-        "owner": "addidix",
+        "owner(s)": "addidix",
         "open source": true,
         "paid": false,
         "language": "py",
@@ -90,7 +90,7 @@
     },
     "10": {
         "name": "mercurial grabber",
-        "owner": "nightfall",
+        "owner(s)": "nightfall",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -98,7 +98,7 @@
     },
     "11": {
         "name": "stealerium",
-        "owner": "kgnfth",
+        "owner(s)": "kgnfth",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -106,7 +106,7 @@
     },
     "12": {
         "name": "hs grabber",
-        "owner": "stanley",
+        "owner(s)": "stanley",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -114,7 +114,7 @@
     },
     "13": {
         "name": "44 caliber",
-        "owner": "razexgod",
+        "owner(s)": "razexgod",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -122,7 +122,7 @@
     },
     "14": {
         "name": "NekoStealer",
-        "owner": "TheC0mpany",
+        "owner(s)": "TheC0mpany",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -130,7 +130,7 @@
     },
     "15": {
         "name": "Discord-AIO",
-        "owner": "Nyxonn",
+        "owner(s)": "Nyxonn",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -138,7 +138,7 @@
     },
     "16": {
         "name": "growtopia stealer",
-        "owner": "TheC0mpany",
+        "owner(s)": "TheC0mpany",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -146,7 +146,7 @@
     },
     "17": {
         "name": "INZStealer",
-        "owner": "InstinctEx",
+        "owner(s)": "InstinctEx",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -154,7 +154,7 @@
     },
     "18": {
         "name": "CyberStealer",
-        "owner": "DedSec77",
+        "owner(s)": "DedSec77",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -162,7 +162,7 @@
     },
     "19": {
         "name": "GodStealer",
-        "owner": "1Emin",
+        "owner(s)": "1Emin",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -170,7 +170,7 @@
     },
     "20": {
         "name": "DeadLight",
-        "owner": "ZeroMemoryEx",
+        "owner(s)": "ZeroMemoryEx",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -178,7 +178,7 @@
     },
     "21": {
         "name": "DFucker-Grabber",
-        "owner": "TioICO",
+        "owner(s)": "TioICO",
         "open source": true,
         "paid": false,
         "language": "cs",
@@ -186,7 +186,7 @@
     },
     "22": {
         "name": "ChromiumStealer",
-        "owner": "BasedBased",
+        "owner(s)": "BasedBased",
         "open source": true,
         "paid": false,
         "language": "py",
@@ -194,10 +194,28 @@
     },
     "23": {
         "name": "baum1810-fixed-token-grabber",
-        "owner": "baum1810",
+        "owner(s)": "baum1810",
         "open source": true,
         "paid": false,
         "language": "bat",
         "resellable": false
+    },
+    "24": {
+        "name": "Extrack Stealer",
+        "owner(s)": "Nayia, imchiral, ZsoZsov",
+        "open source": false,
+        "paid": true,
+        "language": "rust, javascript",
+        "resellable": false
+    },
+    "25": {
+        "name": "Lust Stealer",
+        "owner(s)": "unknown",
+        "open source": false,
+        "paid": true,
+        "language": "rust",
+        "resellable": false
     }
+    
+
 }
