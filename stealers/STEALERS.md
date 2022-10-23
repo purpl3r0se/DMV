@@ -1,134 +1,169 @@
 # Stealers
 ## Breakdown
 - Python
-    - 6 occurences
+    - 6 occurences(s)
 - JavaScript
-    - 5 occurences
+    - 5 occurences(s)
 - C#
-    - 12 occurences
+    - 12 occurences(s)
 - Batch
-    - 1 occurences
-### Bby Stealer | Creator: Brunxkd
+    - 1 occurence(s)
+- Unknown
+    - 1 occurence(s)
+### Bby Stealer | Creator(s): Brunxkd
     Closed source
     Paid
     Coded with JavaScript 
     Has resale program
     ↳ 1337 stealer
-        Closed source
-        Paid
-        Coded with JavaScript 
-### Pirate Stealer | Creator: Stanley
+    Telegram : t.me/bbystealer
+### Pirate Stealer | Creator(s): Stanley
     Closed source
     Paid
     Coded with JavaScript 
     No resale program
-### Redfinger Stealer | Creator: Illuminati
+    Telegram : t.me/BrooklynPS
+### Redfinger Stealer | Creator(s): Illuminati
     Closed source
     Paid
     Coded with JavaScript 
     No resale program
-### Mitsu Stealer | Creator: Staw
+    Telegram : NONE
+### Mitsu Stealer | Creator(s): Staw
     Closed source
     Paid
     Coded with Python 
     No resale program
-### Rustler Stealer | Creator: Unknown
-    Closed source
-    Paid
-    Coded with JavaScript 
-    No resale program
-### Lny Stealer | Creator: Umutxsad
+    Telegram : NONE
+### Rustler Stealer | Creator(s): Unknown
     Closed source
     Paid
     Coded with JavaScript 
     No resale program
-### Hazard Token Grabber V2 | Creator: Rdimo
+    Telegram : NONE
+### Lny Stealer | Creator(s): Umutxsad
+    Closed source
+    Paid
+    Coded with JavaScript 
+    No resale program   
+    Telegram : NONE
+### Hazard Token Grabber V2 | Creator(s): Rdimo
     Open source
     Free
     Coded with Python 
     No resale program
-### Oracle Stealer | Creator: Ilylunar
+    Telegram : NONE
+### Oracle Stealer | Creator(s): Ilylunar
     Closed source
     Paid
     Coded with Python 
     No resale program
-### Empyrean | Creator: Addidix
+    Telegram : NONE
+### Empyrean | Creator(s): Addidix
     Open source
     Free
     Coded with Python 
     No resale program
-### Pegasus | Creator: Addidix
+    Telegram : NONE
+### Pegasus | Creator(s): Addidix
     Open source
     Free
     Coded with Python 
     No resale program
-### Mercurial Grabber | Creator: Nightfall
+    Telegram : NONE
+### Mercurial Grabber | Creator(s): Nightfall
     Open source
     Free
     Coded with C# 
     No resale program
-### Stealerium | Creator: Kgnfth
+    Telegram : NONE
+### Stealerium | Creator(s): Kgnfth
     Open source
     Free
     Coded with C# 
     No resale program
-### Hs Grabber | Creator: Stanley
+    Telegram : NONE
+### Hs Grabber | Creator(s): Stanley
     Open source
     Free
     Coded with C# 
     No resale program
-### 44 Caliber | Creator: Razexgod
+    Telegram : NONE
+### 44 Caliber | Creator(s): Razexgod
     Open source
     Free
     Coded with C# 
     No resale program
-### Nekostealer | Creator: Thec0Mpany
+    Telegram : NONE
+### Nekostealer | Creator(s): Thec0Mpany
     Open source
     Free
     Coded with C# 
     No resale program
-### Discord-Aio | Creator: Nyxonn
+    Telegram : NONE
+### Discord-Aio | Creator(s): Nyxonn
     Open source
     Free
     Coded with C# 
     No resale program
-### Growtopia Stealer | Creator: Thec0Mpany
+    Telegram : NONE
+### Growtopia Stealer | Creator(s): Thec0Mpany
     Open source
     Free
     Coded with C# 
     No resale program
-### Inzstealer | Creator: Instinctex
+    Telegram : NONE
+### Inzstealer | Creator(s): Instinctex
     Open source
     Free
     Coded with C# 
     No resale program
-### Cyberstealer | Creator: Dedsec77
+    Telegram : NONE
+### Cyberstealer | Creator(s): Dedsec77
     Open source
     Free
     Coded with C# 
     No resale program
-### Godstealer | Creator: 1Emin
+    Telegram : NONE
+### Godstealer | Creator(s): 1Emin
     Open source
     Free
     Coded with C# 
     No resale program
-### Deadlight | Creator: Zeromemoryex
+    Telegram : NONE
+### Deadlight | Creator(s): Zeromemoryex
     Open source
     Free
     Coded with C# 
     No resale program
-### Dfucker-Grabber | Creator: Tioico
+    Telegram : NONE
+### Dfucker-Grabber | Creator(s): Tioico
     Open source
     Free
     Coded with C# 
     No resale program
-### Chromiumstealer | Creator: Basedbased
+    Telegram : NONE
+### Chromiumstealer | Creator(s): Basedbased
     Open source
     Free
     Coded with Python 
     No resale program
-### Baum1810-Fixed-Token-Grabber | Creator: Baum1810
+    Telegram : NONE
+### Baum1810-Fixed-Token-Grabber | Creator(s): Baum1810
     Open source
     Free
     Coded with Batch 
     No resale program
+    Telegram : NONE
+### Lust Stealer | Creator(s): Unknown 
+    Closed source
+    Paid
+    Coded in JS?
+    Resale Progam
+    Telegram : t.me/lustlogging
+### Extrack Stealer | Creator(s): Nayia, imchiral, ZsoZsov
+    Closed source
+    Paid
+    Coded in JS & RUST
+    No resale program
+    Telegram : /t.me/extrack_stealer
