@@ -109,7 +109,6 @@ This malware can be removed by simply deleting discord and reinstalling. In orde
 
 ## <a id="guilds"></a>🤝 Trusted Servers
 - [Scam Recovery Centre](https://discord.gg/T7xmU3hTmG) → Discord scam awareness
-- [/coo](https://discord.gg/coo) → New malware sample submission
 ## <a id="contributors"></a>🔨 Contributors
 
 - Addi
@@ -126,4 +125,5 @@ This malware can be removed by simply deleting discord and reinstalling. In orde
 - Fork, edit, and make a pull request.
 - Make sure to make a useful commit message and description on the pull request.
 - Use existing data as a guide for your addition and follow the patterns if applicable.
+- Also contact me if you are up for reverse engineering the file stub/virus.
 <img src="images/banner-foot.png" width="100%"></img>
