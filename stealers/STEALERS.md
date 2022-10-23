@@ -1,15 +1,6 @@
 # Stealers
 ## Breakdown
-- Python
-    - 6 occurences(s)
-- JavaScript
-    - 5 occurences(s)
-- C#
-    - 12 occurences(s)
-- Batch
-    - 1 occurence(s)
-- Unknown
-    - 1 occurence(s)
+
 ### Bby Stealer | Creator(s): Brunxkd
     Closed source
     Paid
