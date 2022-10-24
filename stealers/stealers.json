@@ -248,6 +248,20 @@
     "resellable": true,
     "resellers": {
       "0": {
+        "name": "Coffee Stealer",
+        "open source": false,
+        "paid": true,
+        "language": "rs",
+        "resellable": false
+      },
+      "1": {
+        "name": "Matty's Bot",
+        "open source": false,
+        "paid": true,
+        "language": "rs",
+        "resellable": false
+      },
+      "2": {
         "name": "Soulk Stealer",
         "open source": false,
         "paid": true,
