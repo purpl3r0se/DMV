@@ -21,7 +21,6 @@
         💰 Paid
         💻 Coded with JavaScript 
         ❌ Not Maintained
-        💬 Telegram: t.me/bbystealer
 ### Pirate Stealer | Creator: stanley
     🔒 Closed source
     💰 Paid
@@ -136,4 +135,3 @@
         🔒 Closed source
         💰 Paid
         💻 Coded with Rust 
-        💬 Telegram: t.me/lustlogging
