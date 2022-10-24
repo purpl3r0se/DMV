@@ -5,7 +5,8 @@
     "open source": false,
     "paid": true,
     "language": "js",
-    "notmaintained": false,
+
+    "telegram": "bbystealer",
     "resellable": true,
     "resellers": {
       "0": {
@@ -25,6 +26,7 @@
     "paid": true,
     "language": "js",
     "notmaintained": true,
+    "telegram": "BrooklynPS",
     "resellable": false
   },
   "2": {
@@ -42,7 +44,7 @@
     "open source": false,
     "paid": true,
     "language": "py",
-    "notmaintained": false,
+
     "resellable": false
   },
   "4": {
@@ -60,7 +62,7 @@
     "open source": false,
     "paid": true,
     "language": "js",
-    "notmaintained": false,
+
     "resellable": false
   },
   "6": {
@@ -78,7 +80,7 @@
     "open source": false,
     "paid": true,
     "language": "py",
-    "notmaintained": false,
+
     "resellable": false
   },
   "8": {
@@ -87,7 +89,7 @@
     "open source": true,
     "paid": false,
     "language": "py",
-    "notmaintained": false,
+
     "resellable": false
   },
   "9": {
@@ -96,7 +98,7 @@
     "open source": true,
     "paid": false,
     "language": "py",
-    "notmaintained": false,
+
     "resellable": false
   },
   "10": {
@@ -105,7 +107,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "11": {
@@ -114,7 +116,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "12": {
@@ -123,7 +125,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "13": {
@@ -132,7 +134,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "14": {
@@ -141,7 +143,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "15": {
@@ -150,7 +152,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "16": {
@@ -159,7 +161,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "17": {
@@ -168,7 +170,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "18": {
@@ -177,7 +179,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "19": {
@@ -186,7 +188,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "20": {
@@ -195,7 +197,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "21": {
@@ -204,7 +206,7 @@
     "open source": true,
     "paid": false,
     "language": "cs",
-    "notmaintained": false,
+
     "resellable": false
   },
   "22": {
@@ -231,7 +233,8 @@
     "open source": false,
     "paid": true,
     "language": "js",
-    "notmaintained": false,
+
+    "telegram": "extrack_stealer",
     "resellable": false
   },
   "25": {
@@ -240,7 +243,8 @@
     "open source": false,
     "paid": true,
     "language": "rs",
-    "notmaintained": false,
+
+    "telegram": "lustlogging",
     "resellable": true,
     "resellers": {
       "0": {
@@ -248,7 +252,6 @@
         "open source": false,
         "paid": true,
         "language": "rs",
-        "notmaintained": false,
         "resellable": false
       }
     }
