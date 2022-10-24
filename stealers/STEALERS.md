@@ -131,6 +131,14 @@
     💻 Coded with Rust 
     💸 Has resale program
     💬 Telegram: t.me/lustlogging
+    ↳ Coffee Stealer
+        🔒 Closed source
+        💰 Paid
+        💻 Coded with Rust 
+    ↳ Matty's Bot
+        🔒 Closed source
+        💰 Paid
+        💻 Coded with Rust 
     ↳ Soulk Stealer
         🔒 Closed source
         💰 Paid
