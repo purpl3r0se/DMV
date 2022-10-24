@@ -62,6 +62,6 @@ with open('STEALERS.md', 'w', encoding='utf-8') as f:
                 if 'notmaintained' in reseller and reseller['notmaintained'] is True or 'notmaintained' in stealer and stealer['notmaintained'] is True:
                     f.write(
                         "        ❌ Not Maintained\n")
-                if 'telegram' in stealer:
+                if 'telegram' in reseller:
                     f.write(
                         f"        💬 Telegram: t.me/{stealer['telegram']}\n")
