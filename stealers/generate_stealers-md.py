@@ -37,24 +37,31 @@ with open('STEALERS.md', 'w', encoding='utf-8') as f:
         f.write(
             f'### {stealer["name"].title()} | Creator: {"Unknown" if stealer["owner"] == "" else stealer["owner"]}\n')
         f.write(
-            f"    {'Open' if stealer['open source'] else 'Closed'} source\n")
-        f.write(f"    {'Free' if not stealer['paid'] else 'Paid'}\n")
-        f.write(f"    Coded with {__LANGS__[stealer['language']]} \n")
-        f.write(
-            f"    {'Has' if stealer['resellable'] else 'No'} resale program\n")
-        if stealer['notmaintained'] is True:
+            f"    {'🔓 Open' if stealer['open source'] else '🔒 Closed'} source\n")
+        f.write(f"    {'🆓 Free' if not stealer['paid'] else '💰 Paid'}\n")
+        f.write(f"    💻 Coded with {__LANGS__[stealer['language']]} \n")
+        if stealer['resellable']:
             f.write(
-                f"    Not Maintained\n")
+                "    💸 Has resale program\n")
+        if 'notmaintained' in stealer and stealer['notmaintained'] is True:
+            f.write(
+                "    ❌ Not Maintained\n")
+        if 'telegram' in stealer:
+            f.write(
+                f"    💬 Telegram: t.me/{stealer['telegram']}\n")
         if stealer['resellable']:
             for reseller in stealer['resellers']:
                 reseller = stealer['resellers'][reseller]
                 f.write(f"    ↳ {reseller['name']}\n")
                 f.write(
-                    f"        {'Open' if reseller['open source'] else 'Closed'} source\n")
+                    f"        {'🔓 Open' if reseller['open source'] else '🔒 Closed'} source\n")
                 f.write(
-                    f"        {'Free' if not reseller['paid'] else 'Paid'}\n")
+                    f"        {'🆓 Free' if not reseller['paid'] else '💰 Paid'}\n")
                 f.write(
-                    f"        Coded with {__LANGS__[reseller['language']]} \n")
-                if reseller['notmaintained'] is True:
+                    f"        💻 Coded with {__LANGS__[reseller['language']]} \n")
+                if 'notmaintained' in reseller and reseller['notmaintained'] is True or 'notmaintained' in stealer and stealer['notmaintained'] is True:
                     f.write(
-                        f"        Not Maintained\n")
+                        "        ❌ Not Maintained\n")
+                if 'telegram' in stealer:
+                    f.write(
+                        f"        💬 Telegram: t.me/{stealer['telegram']}\n")
