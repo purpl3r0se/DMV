@@ -210,11 +210,20 @@
     },
     "25": {
         "name": "Lust Stealer",
-        "owner(s)": "unknown",
+        "owner(s)": "bet, Blue",
         "open source": false,
         "paid": true,
         "language": "rust",
-        "resellable": false
+        "resellable": true,
+        "resellers": {
+            "0": {
+                "name": "Soulk Stealer",
+                "open source": false,
+                "paid": true,
+                "language": "rust",
+                "resellable": false
+            }
+        }
     }
     
 
