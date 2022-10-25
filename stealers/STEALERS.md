@@ -27,7 +27,7 @@
     💻 Coded with JavaScript 
     ❌ Not Maintained
     💬 Telegram: t.me/BrooklynPS
-### Redfinger Stealer | Creator: illuminati
+### Redfinger Stealer | Creator: Blue
     🔒 Closed source
     💰 Paid
     💻 Coded with JavaScript 
