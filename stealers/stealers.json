@@ -1,221 +1,273 @@
 {
-    "0": {
-        "name": "bby stealer",
-        "owner(s)": "brunxkd",
-        "open source": false,
-        "paid": true,
-        "language": "js",
-        "resellable": true,
-        "resellers": {
-            "0": {
-                "name": "1337 stealer",
-                "open source": false,
-                "paid": true,
-                "language": "js",
-                "resellable": false
-            }
-        }
-    },
-    "1": {
-        "name": "pirate stealer",
-        "owner(s)": "stanley",
-        "open source": false,
-        "paid": true,
-        "language": "js",
-        "resellable": false
-    },
-    "2": {
-        "name": "redfinger stealer",
-        "owner(s)": "illuminati",
-        "open source": false,
-        "paid": true,
-        "language": "js",
-        "resellable": false
-    },
-    "3": {
-        "name": "mitsu stealer",
-        "owner(s)": "staw",
-        "open source": false,
-        "paid": true,
-        "language": "py",
-        "resellable": false
-    },
-    "4": {
-        "name": "rustler stealer",
-        "owner(s)": "",
-        "open source": false,
-        "paid": true,
-        "language": "js",
-        "resellable": false
-    },
-    "5": {
-        "name": "LNY stealer",
-        "owner(s)": "umutxsad",
-        "open source": false,
-        "paid": true,
-        "language": "js",
-        "resellable": false
-    },
-    "6": {
-        "name": "hazard token grabber v2",
-        "owner(s)": "Rdimo",
-        "open source": true,
-        "paid": false,
-        "language": "py",
-        "resellable": false
-    },
-    "7": {
-        "name": "oracle stealer",
-        "owner(s)": "ilylunar",
-        "open source": false,
-        "paid": true,
-        "language": "py",
-        "resellable": false
-    },
-    "8": {
-        "name": "empyrean",
-        "owner(s)": "addidix",
-        "open source": true,
-        "paid": false,
-        "language": "py",
-        "resellable": false
-    },
-    "9": {
-        "name": "pegasus",
-        "owner(s)": "addidix",
-        "open source": true,
-        "paid": false,
-        "language": "py",
-        "resellable": false
-    },
-    "10": {
-        "name": "mercurial grabber",
-        "owner(s)": "nightfall",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "11": {
-        "name": "stealerium",
-        "owner(s)": "kgnfth",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "12": {
-        "name": "hs grabber",
-        "owner(s)": "stanley",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "13": {
-        "name": "44 caliber",
-        "owner(s)": "razexgod",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "14": {
-        "name": "NekoStealer",
-        "owner(s)": "TheC0mpany",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "15": {
-        "name": "Discord-AIO",
-        "owner(s)": "Nyxonn",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "16": {
-        "name": "growtopia stealer",
-        "owner(s)": "TheC0mpany",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "17": {
-        "name": "INZStealer",
-        "owner(s)": "InstinctEx",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "18": {
-        "name": "CyberStealer",
-        "owner(s)": "DedSec77",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "19": {
-        "name": "GodStealer",
-        "owner(s)": "1Emin",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "20": {
-        "name": "DeadLight",
-        "owner(s)": "ZeroMemoryEx",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "21": {
-        "name": "DFucker-Grabber",
-        "owner(s)": "TioICO",
-        "open source": true,
-        "paid": false,
-        "language": "cs",
-        "resellable": false
-    },
-    "22": {
-        "name": "ChromiumStealer",
-        "owner(s)": "BasedBased",
-        "open source": true,
-        "paid": false,
-        "language": "py",
-        "resellable": false
-    },
-    "23": {
-        "name": "baum1810-fixed-token-grabber",
-        "owner(s)": "baum1810",
-        "open source": true,
-        "paid": false,
-        "language": "bat",
-        "resellable": false
-    },
-    "24": {
-        "name": "Extrack Stealer",
-        "owner(s)": "Nayia, imchiral, ZsoZsov",
-        "open source": false,
-        "paid": true,
-        "language": "rust, javascript",
-        "resellable": false
-    },
-    "25": {
-        "name": "Lust Stealer",
-        "owner(s)": "unknown",
-        "open source": false,
-        "paid": true,
-        "language": "rust",
-        "resellable": false
-    }
-    
+  "0": {
+    "name": "bby stealer",
+    "owner": "brunxkd",
+    "open source": false,
+    "paid": true,
+    "language": "js",
 
+    "telegram": "bbystealer",
+    "resellable": true,
+    "resellers": {
+      "0": {
+        "name": "1337 stealer",
+        "open source": false,
+        "paid": true,
+        "language": "js",
+        "notmaintained": true,
+        "resellable": false
+      }
+    }
+  },
+  "1": {
+    "name": "pirate stealer",
+    "owner": "stanley",
+    "open source": false,
+    "paid": true,
+    "language": "js",
+    "notmaintained": true,
+    "telegram": "BrooklynPS",
+    "resellable": false
+  },
+  "2": {
+    "name": "redfinger stealer",
+    "owner": "Blue",
+    "open source": false,
+    "paid": true,
+    "language": "js",
+    "notmaintained": true,
+    "resellable": false
+  },
+  "3": {
+    "name": "mitsu stealer",
+    "owner": "staw",
+    "open source": false,
+    "paid": true,
+    "language": "py",
+
+    "resellable": false
+  },
+  "4": {
+    "name": "rustler stealer",
+    "owner": "",
+    "open source": false,
+    "paid": true,
+    "language": "js",
+    "notmaintained": true,
+    "resellable": false
+  },
+  "5": {
+    "name": "LNY stealer",
+    "owner": "umutxsad",
+    "open source": false,
+    "paid": true,
+    "language": "js",
+
+    "resellable": false
+  },
+  "6": {
+    "name": "hazard token grabber v2",
+    "owner": "Rdimo",
+    "open source": true,
+    "paid": false,
+    "language": "py",
+    "notmaintained": true,
+    "resellable": false
+  },
+  "7": {
+    "name": "oracle stealer",
+    "owner": "ilylunar",
+    "open source": false,
+    "paid": true,
+    "language": "py",
+
+    "resellable": false
+  },
+  "8": {
+    "name": "empyrean",
+    "owner": "addidix",
+    "open source": true,
+    "paid": false,
+    "language": "py",
+
+    "resellable": false
+  },
+  "9": {
+    "name": "pegasus",
+    "owner": "addidix",
+    "open source": true,
+    "paid": false,
+    "language": "py",
+
+    "resellable": false
+  },
+  "10": {
+    "name": "mercurial grabber",
+    "owner": "nightfall",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "11": {
+    "name": "stealerium",
+    "owner": "kgnfth",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "12": {
+    "name": "hs grabber",
+    "owner": "stanley",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "13": {
+    "name": "44 caliber",
+    "owner": "razexgod",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "14": {
+    "name": "NekoStealer",
+    "owner": "TheC0mpany",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "15": {
+    "name": "Discord-AIO",
+    "owner": "Nyxonn",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "16": {
+    "name": "growtopia stealer",
+    "owner": "TheC0mpany",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "17": {
+    "name": "INZStealer",
+    "owner": "InstinctEx",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "18": {
+    "name": "CyberStealer",
+    "owner": "DedSec77",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "19": {
+    "name": "GodStealer",
+    "owner": "1Emin",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "20": {
+    "name": "DeadLight",
+    "owner": "ZeroMemoryEx",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "21": {
+    "name": "DFucker-Grabber",
+    "owner": "TioICO",
+    "open source": true,
+    "paid": false,
+    "language": "cs",
+
+    "resellable": false
+  },
+  "22": {
+    "name": "ChromiumStealer",
+    "owner": "BasedBased",
+    "open source": true,
+    "paid": false,
+    "language": "py",
+    "notmaintained": true,
+    "resellable": false
+  },
+  "23": {
+    "name": "baum1810-fixed-token-grabber",
+    "owner": "baum1810",
+    "open source": true,
+    "paid": false,
+    "language": "bat",
+    "notmaintained": true,
+    "resellable": false
+  },
+  "24": {
+    "name": "Extrack Stealer",
+    "owner": "Nayia, imchiral, ZsoZsov",
+    "open source": false,
+    "paid": true,
+    "language": "js",
+
+    "telegram": "extrack_stealer",
+    "resellable": false
+  },
+  "25": {
+    "name": "Lust Stealer",
+    "owner": "bet, Blue",
+    "open source": false,
+    "paid": true,
+    "language": "rs",
+
+    "telegram": "lustlogging",
+    "resellable": true,
+    "resellers": {
+      "0": {
+        "name": "Coffee Stealer",
+        "open source": false,
+        "paid": true,
+        "language": "rs",
+        "resellable": false
+      },
+      "1": {
+        "name": "Matty's Bot",
+        "open source": false,
+        "paid": true,
+        "language": "rs",
+        "resellable": false
+      },
+      "2": {
+        "name": "Soulk Stealer",
+        "open source": false,
+        "paid": true,
+        "language": "rs",
+        "resellable": false
+      }
+    }
+  }
 }
