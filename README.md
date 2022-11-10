@@ -20,6 +20,6 @@ Contributions are always welcome!
 See [Discord](https://discord.gg/cJTW99a6Ny) for ways to get started.
 
 
-test
+
 
 <img src="images/banner-foot.png" width="100%"></img>
