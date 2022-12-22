@@ -46,7 +46,7 @@ with open(f'{"./stealers/" if use_full_path else ""}STEALERS.md', 'w', encoding=
         if langs.count(__LANGS__[lang]) < 1:
             continue
         f.write(f"- {__LANGS__[lang]}\n")
-        f.write(f"    - {langs.count(__LANGS__[lang])} occurences\n")
+        f.write(f"  - {langs.count(__LANGS__[lang])} occurences\n")
 
     f.write('## List\n')
 
@@ -55,7 +55,7 @@ with open(f'{"./stealers/" if use_full_path else ""}STEALERS.md', 'w', encoding=
         f.write(f'### {stealer["name"].title()} | Creator: {"Unknown" if stealer["owner"] == "" else stealer["owner"]}\n')
         f.write(f"    {'🔓 Open' if stealer['open source'] else '🔒 Closed'} source\n")
         f.write(f"    {'💰 Paid' if stealer['paid'] else '🆓 Free'}\n")
-        f.write(f"    💻 Coded with {__LANGS__[stealer['language']]} \n")
+        f.write(f"    💻 Coded with {__LANGS__[stealer['language']]}\n")
         if stealer['resellable']:
             f.write("    💸 Has resale program\n")
 
